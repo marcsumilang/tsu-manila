@@ -1,0 +1,20 @@
+@font-face {
+	font-family: 'fjalla';
+	src: url('FjallaOne-Regular.eot');
+	src: url('FjallaOne-Regular.eot?#iefix') format('embedded-opentype'),
+		url('FjallaOne-Regular.woff') format('woff'),
+		url('FjallaOne-Regular.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'sourcesanspro-regular';
+	src: url('SourceSansPro-Regular.eot');
+	src: url('SourceSansPro-Regular.eot?#iefix') format('embedded-opentype'),
+		url('SourceSansPro-Regular.woff') format('woff'),
+		url('SourceSansPro-Regular.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
